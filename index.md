@@ -6,3 +6,7 @@
 ```javascript
 var minhaVar = "Olá, mundo!";
 ```
+
+- [x] Aprender Python
+- [x] Começar a aprender Git
+- [ ] Fazer os desafios
